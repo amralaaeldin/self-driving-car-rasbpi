@@ -21,3 +21,6 @@
 - download and install python from [here](https://www.python.org/downloads/)
 - run command `pip install -r requirements.txt`
 
+
+## Reference
+- Visit Self-Driving Car using Raspberry Pi course by Murtaza Hassan [here] (https://www.computervision.zone/courses/self-driving-car-using-raspberry-pi/) 
